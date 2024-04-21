@@ -32,6 +32,9 @@ def sum_all():
     return total_amount
 
 
+
+
+
 def show_all():
     for receipt in receipt_list:
         print("----------------------------------------")
